@@ -7,3 +7,8 @@ artists.pop
 
 artists.pop(2)
 
+.shift [0]
+
+.shift [0,1]
+
+.
